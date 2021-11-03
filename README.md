@@ -7,5 +7,5 @@
 
 
 ### Interest 🎈
-- Human Pose Estimation
+- Human Body Pose and Shape Estimation
 - Generative Adversarial Networks
