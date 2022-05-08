@@ -9,3 +9,6 @@
 ### Interest 🎈
 - Human Body Pose and Shape Estimation
 - Generative Adversarial Networks
+
+
+contact : nastynas9004@gmail.com
