@@ -2,7 +2,7 @@
 
 ### I am 😁
 
-- Graudated Inha Univ. Master degree of Computer Sicence
+- Graudated Inha Univ. Master degree of Computer Science
 - Working as Machine Learning Engineer in Plask
 
 
