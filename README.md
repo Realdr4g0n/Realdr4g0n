@@ -8,6 +8,7 @@
 
 ### Interest 🎈
 - Human Body Pose and Shape Estimation
+- Multi Object Tracking
 - Generative Adversarial Networks
 
 
