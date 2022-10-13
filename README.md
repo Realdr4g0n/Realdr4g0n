@@ -3,12 +3,13 @@
 ### I am 😁
 
 - Graudated Inha Univ. Master degree of Computer Science
-- Working as Machine Learning Engineer in Plask
+- Working as Computer Vision A.I. Researcher in May-I
 
 
 ### Interest 🎈
-- Human Body Pose and Shape Estimation
+- Re-Identification
 - Multi Object Tracking
+- Human Body Pose and Shape Estimation
 - Generative Adversarial Networks
 
 
