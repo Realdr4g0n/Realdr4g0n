@@ -7,7 +7,6 @@
 
 
 ### Interest 🎈
-- Re-Identification
 - Multi Object Tracking
 - Human Body Pose and Shape Estimation
 - Generative Adversarial Networks
